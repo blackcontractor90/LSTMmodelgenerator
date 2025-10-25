@@ -69,9 +69,7 @@ Suggested next steps
 - Save scaler mean/scale CSVs (recommended) so non-Python consumers can scale inputs identically.
 - Add a small sample dataset (data/sample.csv) and a smoke-test script to validate predictions.
 - Optionally add unit tests and a model validation step before exporting.
-
-License
-- Add a LICENSE file (MIT recommended if you want permissive reuse).
+  
 
 Maintainer
 - @blackcontractor90
